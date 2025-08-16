@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/QuestEnd/static/css/main.198dec68.css",
-    "main.js": "/QuestEnd/static/js/main.ec2c8d5d.js",
-    "static/js/290.d2e570d0.chunk.js": "/QuestEnd/static/js/290.d2e570d0.chunk.js",
-    "index.html": "/QuestEnd/index.html",
-    "main.198dec68.css.map": "/QuestEnd/static/css/main.198dec68.css.map",
-    "main.ec2c8d5d.js.map": "/QuestEnd/static/js/main.ec2c8d5d.js.map"
+    "main.css": "/static/css/main.198dec68.css",
+    "main.js": "/static/js/main.f54143d2.js",
+    "static/js/16.54908057.chunk.js": "/static/js/16.54908057.chunk.js",
+    "static/js/290.d2e570d0.chunk.js": "/static/js/290.d2e570d0.chunk.js",
+    "static/js/755.cba7207b.chunk.js": "/static/js/755.cba7207b.chunk.js",
+    "static/js/489.22435ffa.chunk.js": "/static/js/489.22435ffa.chunk.js",
+    "index.html": "/index.html",
+    "main.198dec68.css.map": "/static/css/main.198dec68.css.map",
+    "main.f54143d2.js.map": "/static/js/main.f54143d2.js.map"
   },
   "entrypoints": [
     "static/css/main.198dec68.css",
-    "static/js/main.ec2c8d5d.js"
+    "static/js/main.f54143d2.js"
   ]
 }
