@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/QuestEnd/static/css/main.198dec68.css",
-    "main.js": "/QuestEnd/static/js/main.48ad5d87.js",
-    "static/js/16.54908057.chunk.js": "/QuestEnd/static/js/16.54908057.chunk.js",
+    "main.js": "/QuestEnd/static/js/main.f7ae38bc.js",
     "static/js/290.d2e570d0.chunk.js": "/QuestEnd/static/js/290.d2e570d0.chunk.js",
     "static/js/755.cba7207b.chunk.js": "/QuestEnd/static/js/755.cba7207b.chunk.js",
+    "static/js/8.76808ae4.chunk.js": "/QuestEnd/static/js/8.76808ae4.chunk.js",
     "static/js/489.22435ffa.chunk.js": "/QuestEnd/static/js/489.22435ffa.chunk.js",
     "index.html": "/QuestEnd/index.html",
     "main.198dec68.css.map": "/QuestEnd/static/css/main.198dec68.css.map",
-    "main.48ad5d87.js.map": "/QuestEnd/static/js/main.48ad5d87.js.map"
+    "main.f7ae38bc.js.map": "/QuestEnd/static/js/main.f7ae38bc.js.map"
   },
   "entrypoints": [
     "static/css/main.198dec68.css",
-    "static/js/main.48ad5d87.js"
+    "static/js/main.f7ae38bc.js"
   ]
 }
