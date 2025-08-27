@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/QuestEnd/static/css/main.198dec68.css",
-    "main.js": "/QuestEnd/static/js/main.7b39182f.js",
-    "static/js/290.d2e570d0.chunk.js": "/QuestEnd/static/js/290.d2e570d0.chunk.js",
-    "static/js/755.cba7207b.chunk.js": "/QuestEnd/static/js/755.cba7207b.chunk.js",
-    "static/js/8.76808ae4.chunk.js": "/QuestEnd/static/js/8.76808ae4.chunk.js",
-    "static/js/593.4d18fbde.chunk.js": "/QuestEnd/static/js/593.4d18fbde.chunk.js",
-    "static/js/489.22435ffa.chunk.js": "/QuestEnd/static/js/489.22435ffa.chunk.js",
-    "index.html": "/QuestEnd/index.html",
-    "main.198dec68.css.map": "/QuestEnd/static/css/main.198dec68.css.map",
-    "main.7b39182f.js.map": "/QuestEnd/static/js/main.7b39182f.js.map"
+    "main.css": "/github.io/manjilj/QuestEnd/static/css/main.198dec68.css",
+    "main.js": "/github.io/manjilj/QuestEnd/static/js/main.0fccb217.js",
+    "static/js/290.d2e570d0.chunk.js": "/github.io/manjilj/QuestEnd/static/js/290.d2e570d0.chunk.js",
+    "static/js/755.cba7207b.chunk.js": "/github.io/manjilj/QuestEnd/static/js/755.cba7207b.chunk.js",
+    "static/js/8.76808ae4.chunk.js": "/github.io/manjilj/QuestEnd/static/js/8.76808ae4.chunk.js",
+    "static/js/593.4d18fbde.chunk.js": "/github.io/manjilj/QuestEnd/static/js/593.4d18fbde.chunk.js",
+    "static/js/489.22435ffa.chunk.js": "/github.io/manjilj/QuestEnd/static/js/489.22435ffa.chunk.js",
+    "index.html": "/github.io/manjilj/QuestEnd/index.html",
+    "main.198dec68.css.map": "/github.io/manjilj/QuestEnd/static/css/main.198dec68.css.map",
+    "main.0fccb217.js.map": "/github.io/manjilj/QuestEnd/static/js/main.0fccb217.js.map"
   },
   "entrypoints": [
     "static/css/main.198dec68.css",
-    "static/js/main.7b39182f.js"
+    "static/js/main.0fccb217.js"
   ]
 }
