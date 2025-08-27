@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/QuestEnd/static/css/main.198dec68.css",
-    "main.js": "/github.io/QuestEnd/static/js/main.ba26c5bd.js",
-    "static/js/290.d2e570d0.chunk.js": "/github.io/QuestEnd/static/js/290.d2e570d0.chunk.js",
-    "static/js/755.cba7207b.chunk.js": "/github.io/QuestEnd/static/js/755.cba7207b.chunk.js",
-    "static/js/8.76808ae4.chunk.js": "/github.io/QuestEnd/static/js/8.76808ae4.chunk.js",
-    "static/js/593.4d18fbde.chunk.js": "/github.io/QuestEnd/static/js/593.4d18fbde.chunk.js",
-    "static/js/489.22435ffa.chunk.js": "/github.io/QuestEnd/static/js/489.22435ffa.chunk.js",
-    "index.html": "/github.io/QuestEnd/index.html",
-    "main.198dec68.css.map": "/github.io/QuestEnd/static/css/main.198dec68.css.map",
-    "main.ba26c5bd.js.map": "/github.io/QuestEnd/static/js/main.ba26c5bd.js.map"
+    "main.css": "./static/css/main.198dec68.css",
+    "main.js": "./static/js/main.adea4aac.js",
+    "static/js/290.d2e570d0.chunk.js": "./static/js/290.d2e570d0.chunk.js",
+    "static/js/755.cba7207b.chunk.js": "./static/js/755.cba7207b.chunk.js",
+    "static/js/8.76808ae4.chunk.js": "./static/js/8.76808ae4.chunk.js",
+    "static/js/593.4d18fbde.chunk.js": "./static/js/593.4d18fbde.chunk.js",
+    "static/js/489.22435ffa.chunk.js": "./static/js/489.22435ffa.chunk.js",
+    "index.html": "./index.html",
+    "main.198dec68.css.map": "./static/css/main.198dec68.css.map",
+    "main.adea4aac.js.map": "./static/js/main.adea4aac.js.map"
   },
   "entrypoints": [
     "static/css/main.198dec68.css",
-    "static/js/main.ba26c5bd.js"
+    "static/js/main.adea4aac.js"
   ]
 }
