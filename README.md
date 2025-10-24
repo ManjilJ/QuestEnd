@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+# QuestEnd Map of Groups/Parts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This document outlines the learning modules, broken down by groups and their respective parts.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Group 1: React Core & Advanced Concepts
 
-### `npm start`
+- **Part 1** - `React routing`, `forms`, `SSR`
+- **Part 2** - `OSI` Model
+- **Part 3** - React `DOM` / `Virtual DOM` rendering
+- **Part 4** - React `StrictMode`, `React.memo` and `useMemo`
+- **Part 5** - React `localStorage`, dynamic forms
+- **Part 6** - React Undo/redo functionality, `useContext`, custom hooks
+- **Part 7** - `React-DOM`, `ReactDOM.render()`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ Group 2: Backend Integration
 
-### `npm test`
+- **Part 1** - `Express` Backend Sample
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📚 Group 3: JavaScript & CS Fundamentals
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Part 1** - `API` to `do...while` loop
+- **Part 2** - `Event Loop` to `hasOwnProperty()`
+- **Part 3** - `if-else` to `Memoization`
+- **Part 4** - `NaN` to `requestAnimationFrame()`
+- **Part 5** - `Scope` to `z-index`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 Group 4: Code Implementation
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# QuestEnd" 
+- **Part 1** - Code examples: `API` to `do...while loop`
+- **Part 2** - Code examples: `Event Loop` to `hasOwnProperty()`
+- **Part 3** - Code examples: `if-else` to `Memoization`
+- **Part 4** - Code examples: `NaN` to `requestAnimationFrame()`
+- **Part 5** - Code examples: `Scope` to `z-index`
