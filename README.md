@@ -19,7 +19,8 @@ This document outlines the learning modules, broken down by groups and their res
 ## ⚙️ Group 2: Backend Integration
 
 - **Part 1** - `Express` Backend Sample
-
+- **Part 2** - Tic-tac-toe server (330 lines of code+comments with 450+ fill-ins) (Group/Part Select-Alt+S,Q)
+  
 ---
 
 ## 📚 Group 3: JavaScript & CS Fundamentals
@@ -39,3 +40,4 @@ This document outlines the learning modules, broken down by groups and their res
 - **Part 3** - Code examples: `if-else` to `Memoization`
 - **Part 4** - Code examples: `NaN` to `requestAnimationFrame()`
 - **Part 5** - Code examples: `Scope` to `z-index`
+
